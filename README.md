@@ -1,2 +1,19 @@
-# mindset-money
-Interactive web experience exploring how mindset shapes financial success. Built with HTML/CSS/JS, this project visualizes the journey from limited thinking ($30K) to unlimited wealth ($300K+) through engaging animations and powerful messaging. Your mindset is your financial operating system.
+Mindset = Money: Financial Wealth Mindset Visualizer
+
+**Interactive and educational web experience exploring the impact of mindset on financial success.**
+
+Transform your financial thinking! This open-source project uses HTML, CSS, and JavaScript to visualize how shifting from limited to powerful thinking can unlock income and wealth. Discover the difference in mental operating systems between earning $30K and $300K+.
+
+## Features
+- Dynamic animations & visuals to explain key concepts.
+- Simple, remixable code (HTML/CSS/JS) for easy learning and customization.
+- Clear messaging:  
+  - 🧠 Limited thinking = Limited money  
+  - ⚡ Charged mindset = Growing income  
+  - 💰 Powerful mindset = Unlimited wealth
+
+## How to Use
+- Clone or fork the repository.
+- Open `index.html` in your browser.
+- Explore, adapt, and share—perfect for classrooms, workshops, or self-study.
+
