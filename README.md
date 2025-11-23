@@ -17,3 +17,6 @@ Transform your financial thinking! This open-source project uses HTML, CSS, and 
 - Open `index.html` in your browser.
 - Explore, adapt, and share—perfect for classrooms, workshops, or self-study.
 
+## Watch the Mindset Video
+
+[![Watch the Short](https://img.youtube.com/vi/COQA5zEGV54/hqdefault.jpg)](https://www.youtube.com/shorts/COQA5zEGV54)
