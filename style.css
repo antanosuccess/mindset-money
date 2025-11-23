@@ -1,0 +1,57 @@
+* {
+  margin: 0; padding: 0; box-sizing: border-box;
+}
+body {
+  overflow: hidden;
+  background: #000;
+  font-family: 'Arial Black', sans-serif;
+}
+#canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+.overlay-text {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0;
+  text-shadow: 0 0 20px rgba(255,215,0,0.8);
+  pointer-events: none;
+  z-index: 10;
+  white-space: nowrap;
+}
+.battery {
+  position: absolute;
+  top: 20%; left: 50%;
+  transform: translateX(-50%);
+  font-size: 2rem;
+  color: #fff;
+  opacity: 0;
+  text-shadow: 0 0 10px rgba(255,255,255,0.5);
+  z-index: 10;
+}
+.money-counter {
+  position: absolute;
+  bottom: 20%; left: 50%;
+  transform: translateX(-50%);
+  font-size: 2.5rem;
+  color: #0f0;
+  opacity: 0;
+  text-shadow: 0 0 15px rgba(0,255,0,0.8);
+  z-index: 10;
+  font-weight: bold;
+}
+.lightning-label {
+  position: absolute;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  opacity: 0;
+  text-shadow: 0 0 10px rgba(255,215,0,1);
+  z-index: 10;
+}
