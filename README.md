@@ -20,3 +20,7 @@ Transform your financial thinking! This open-source project uses HTML, CSS, and 
 ## Watch the Mindset Video
 
 [![Watch the Short](https://img.youtube.com/vi/COQA5zEGV54/hqdefault.jpg)](https://www.youtube.com/shorts/COQA5zEGV54)
+
+## 🚀 Live Demo
+
+Check out the live demo: [https://antanosuccess.github.io/mindset-money/](https://antanosuccess.github.io/mindset-money/)
